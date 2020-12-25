@@ -1,13 +1,6 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import axios from "axios";
-import ReactPlayer from "react-player";
-
-
-import { Button, FormGroup, FormControl, ControlLabel } from "react-bootstrap";
-import Accordion from 'react-bootstrap/Accordion';
 import Collapsible from 'react-collapsible';
-
+import { Link } from "react-router-dom";
 
 export default class ExercisesList extends Component {
   
